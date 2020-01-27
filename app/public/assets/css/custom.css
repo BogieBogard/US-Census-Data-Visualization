@@ -753,11 +753,11 @@ input[type="submit"] {
   padding-top: 50px;
 }
 
-#mobileText {
+.mobileText {
   padding-bottom: 50px;
 }
 
-#mobileOnly {
+.mobileOnly {
   display: none;
 }
 
@@ -765,7 +765,7 @@ input[type="submit"] {
   #mobileHideForAutocomplete {
     display: none;
   }
-  #mobileOnly {
+  .mobileOnly {
     display: block;
   }
 }
