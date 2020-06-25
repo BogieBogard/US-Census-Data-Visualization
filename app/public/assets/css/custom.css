@@ -808,3 +808,7 @@ input[type="submit"] {
 #testForScrolling {
   padding-bottom: 200px;
 }
+
+#city-search {
+  min-width: 350px;
+}
